@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Main Activity View</string>
+    <string name="action_bar_navigation">Open the Action Bar Navigation</string>
+</resources>
